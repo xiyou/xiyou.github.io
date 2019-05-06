@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-01-06 20:55:17 +0800
+title: "无几时"
+date: 2019-01-06 20:23:00 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+人生无几时，颠沛在其间。写文字还是需要仪式感，这样，更能找到内在的动机，爱上文字，对其敏感。
 
-Jekyll also offers powerful support for code snippets:
+#### 见之不忘
+2019年1月3号晚，阅读《经验的疆界》第二章，《情报分析心理学》第一章，《三生有幸》第一章，《创新算法》第一章。不忘的是低智学习概念、思考的思考、认知革命的开端。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+#### 结志青云上
+低智学习，在不求理解因果结构的情况下复制成功相连的行动。阳老师说过，学习的困惑，在马奇书里能找到答案。短时记忆阀值，当下意识的狭窄带宽。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+#### 所思在远道
+阅读难书，杰作、神作，第一遍看文字着实不懂，所思真的在远方，容易分神。此刻，想起一句话，趁年轻，要做难一点的事。
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#### 愁多知夜长
+什么都想要得到，贪心。经历的过程比结果更重要。你在感受，你在经历，你在参与。斯塔诺维奇的操作主义，就是看重的是过程。我这周的卡片好少，真的拼凑不起一篇文章。不过没关系，开头总是会难点的。
+
+人生寄一世，奄忽如飙尘。父母把我带到这个世上，生在中国一个小镇上、小康的生活，真的已经很幸运了。有的人不喜欢这个世界，情愿没来过。地球上，每个人的遭遇挺不一样。
